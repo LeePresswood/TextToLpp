@@ -1,0 +1,23 @@
+{
+  "name": "TextToLpp",
+  "version": "1.0.0",
+  "description": "Convert rich text to LPP-readable blogs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeePresswood/TextToLpp.git"
+  },
+  "keywords": [],
+  "author": "Lee Presswood <LeePresswood@gmail.com> (https://twitter.com/Lee_Presswood)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeePresswood/TextToLpp/issues"
+  },
+  "homepage": "https://github.com/LeePresswood/TextToLpp#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
